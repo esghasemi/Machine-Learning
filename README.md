@@ -58,3 +58,6 @@ The repository is organized into the following branches:
 - **mini-project-3**: Contains materials and code for the third mini project.
 - **mini-project-4**: Contains materials and code for the fourth mini project.
 - **final-project**: Contains materials and code for the final project.
+
+
+For any questions or further information, please contact e.ghasemi2@email.kntu.ac.ir
