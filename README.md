@@ -14,7 +14,7 @@ Mini Project 1 consists of three questions:
   - Visualize decision boundaries and regions.
   - Repeat the same process using the `drawdata` tool.
 - **Files**:
-  - `question1_sklearn.ipynb`: Jupyter Notebook for the implementation using `sklearn.datasets`.
+  -  `Mini_proj_1_Q1_ElaheSadatGhasemi.ipynb`: Goggle Colab Notebook for the manual implementation.
 
 ### Question 2
 - **Task**: Use the CWRU Bearing Dataset to classify fault and normal classes.
@@ -26,7 +26,7 @@ Mini Project 1 consists of three questions:
     - Without using Python libraries.
     - Using Python libraries.
 - **Files**:
-  - `question2_manual.ipynb`: Jupyter Notebook for the manual implementation.
+  - `Mini_proj_1_Q2_ElaheSadatGhasemi.ipynb`: Goggle Colab Notebook for the manual implementation.
 
 ### Question 3
 - **Task**: Analyze the Weather in Szeged 2006-2016 dataset.
@@ -35,6 +35,6 @@ Mini Project 1 consists of three questions:
   - Implement RLS, LS, and WLS methods.
   - Explain the QR-Decomposition-Based RLS algorithm.
 - **Files**:
-  - `question3_analysis.ipynb`: Jupyter Notebook for data analysis and implementation.
+  -  `Mini_proj_1_Q3_ElaheSadatGhasemi.ipynb`: Goggle Colab Notebook for the manual implementation.
 
 For any questions or further information, please contact your-email@example.com
