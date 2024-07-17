@@ -37,4 +37,4 @@ Mini Project 1 consists of three questions:
 - **Files**:
   -  `Mini_proj_1_Q3_ElaheSadatGhasemi.ipynb`: Goggle Colab Notebook for the manual implementation.
 
-For any questions or further information, please contact your-email@example.com
+For any questions or further information, please contact e.ghasemi2@email.kntu.ac.ir
