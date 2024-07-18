@@ -61,4 +61,5 @@ The repository is organized into the following branches:
   
 **Note!** : All the codes for this course are implemented in Python in the Google Colab environment. The code files for each mini project are placed in their respective branches.
 
+## Content Information
 For any questions or further information, please contact e.ghasemi2@email.kntu.ac.ir
